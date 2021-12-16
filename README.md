@@ -1,3 +1,3 @@
 # ticketing
 
-#YES24
+#YES24 비지정석
